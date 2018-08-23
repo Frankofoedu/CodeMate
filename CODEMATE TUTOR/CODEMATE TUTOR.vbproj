@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23F3CFA3-12FA-489A-8CE2-190C003DF225}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CODEMATE_TUTOR.My.MyApplication</StartupObject>
+    <RootNamespace>CODEMATE_TUTOR</RootNamespace>
+    <AssemblyName>CODEMATE TUTOR</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CODEMATE TUTOR.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CODEMATE TUTOR.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>droid.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>ABF940B9072E10B6AE181DC8531D336FC949D233</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CODEMATE TUTOR_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ScintillaNET, Version=3.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\jacobslusser.ScintillaNET.3.6.3\lib\net40\ScintillaNET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Addfile.Designer.vb">
+      <DependentUpon>Addfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Addfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="A_I.vb" />
+    <Compile Include="browsemain.Designer.vb">
+      <DependentUpon>browsemain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="browsemain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="browsetab.Designer.vb">
+      <DependentUpon>browsetab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="browsetab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="codemate.vb" />
+    <Compile Include="containeer.Designer.vb">
+      <DependentUpon>containeer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="containeer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form2_AI.vb" />
+    <Compile Include="game1.Designer.vb">
+      <DependentUpon>game1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="game1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="openfile.Designer.vb">
+      <DependentUpon>openfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="openfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings.Designer.vb">
+      <DependentUpon>settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tab1.Designer.vb">
+      <DependentUpon>tab1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tab1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tab2.Designer.vb">
+      <DependentUpon>tab2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tab2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WICSform1.Designer.vb">
+      <DependentUpon>WICSform1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WICSform1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkArea.Designer.vb">
+      <DependentUpon>WorkArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkStart.Designer.vb">
+      <DependentUpon>WorkStart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Addfile.resx">
+      <DependentUpon>Addfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="browsemain.resx">
+      <DependentUpon>browsemain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="browsetab.resx">
+      <DependentUpon>browsetab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="containeer.resx">
+      <DependentUpon>containeer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="game1.resx">
+      <DependentUpon>game1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="openfile.resx">
+      <DependentUpon>openfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settings.resx">
+      <DependentUpon>settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tab1.resx">
+      <DependentUpon>tab1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tab2.resx">
+      <DependentUpon>tab2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WICSform1.resx">
+      <DependentUpon>WICSform1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkArea.resx">
+      <DependentUpon>WorkArea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkStart.resx">
+      <DependentUpon>WorkStart.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CODEMATE TUTOR_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\minimise.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\minimise.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\retoredown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\retoredown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\close.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\close.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\maximize.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\maximize.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\DROIDlogo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\save.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\saveall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\morr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addfile.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\st.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DROIDsmall.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reload1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reload.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\swordlog.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_DROID1.gif" />
+    <None Include="Resources\DROID.jpg" />
+    <None Include="Resources\gbg.gif" />
+    <None Include="Resources\blackstar.gif" />
+    <None Include="Resources\star.gif" />
+    <None Include="Resources\optag.jpg" />
+    <None Include="Resources\oh6tag.jpg" />
+    <None Include="Resources\oh1tag.jpg" />
+    <None Include="Resources\cptag.jpg" />
+    <None Include="Resources\ch6tag.jpg" />
+    <None Include="Resources\defaulth1.jpg" />
+    <None Include="Resources\defaultp.jpg" />
+    <None Include="Resources\gamelevel2.JPG" />
+    <None Include="Resources\ch1tag.jpg" />
+    <None Include="Resources\oboldtag.jpg" />
+    <None Include="Resources\cboldtag.jpg" />
+    <None Include="Resources\gamelevel1.JPG" />
+    <None Include="Resources\DefaultTitle.jpg" />
+    <None Include="Resources\DefaultBody.jpg" />
+    <None Include="Resources\otitletag.jpg" />
+    <None Include="Resources\oheadtag.jpg" />
+    <None Include="Resources\obodytag.jpg" />
+    <None Include="Resources\ctitletag.jpg" />
+    <None Include="Resources\cbodytag.jpg" />
+    <None Include="Resources\cheadtag.jpg" />
+    <None Include="Resources\chtmltag.jpg" />
+    <None Include="Resources\Ohtmltag.jpg" />
+    <None Include="Resources\browse_DROID.gif" />
+    <None Include="Resources\new_DROID.gif" />
+    <None Include="Resources\codemate.jpg" />
+    <None Include="bin\Debug\images\codemate.gif" />
+    <Content Include="droid.ico" />
+    <None Include="Resources\board1.gif" />
+    <None Include="Resources\board.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

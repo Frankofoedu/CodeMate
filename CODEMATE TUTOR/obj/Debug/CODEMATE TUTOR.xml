@@ -1,0 +1,306 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CODEMATE TUTOR
+</name>
+</assembly>
+<members>
+<member name="T:CODEMATE_TUTOR.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.addfile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.blackstar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.board">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.board1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.browse_DROID">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.cbodytag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.cboldtag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.ch1tag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.ch6tag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.cheadtag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.chtmltag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.close1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.close2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.codemate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.codemate1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.cptag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.ctitletag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.DefaultBody">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.defaulth1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.defaultp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.DefaultTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.DROID">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.DROIDlogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.DROIDsmall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.gamelevel1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.gamelevel2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.gbg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.maximize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.maximize1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.minimise">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.minimise1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.morr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.new_DROID">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.new_DROID1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.obodytag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.oboldtag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.oh1tag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.oh6tag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.oheadtag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.Ohtmltag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.optag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.otitletag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.redo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.redo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.Reload">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.Reload1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.retoredown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.retoredown1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.saveall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.st">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.star">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.swordlog">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.undo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CODEMATE_TUTOR.My.Resources.Resources.undo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

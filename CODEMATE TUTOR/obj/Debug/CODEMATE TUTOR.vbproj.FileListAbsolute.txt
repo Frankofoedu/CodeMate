@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.Addfile.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.browsemain.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.browsetab.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.containeer.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.Form1.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.Form2.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.game1.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.openfile.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.settings.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.tab1.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.tab2.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.WICSform1.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.WorkArea.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.WorkStart.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.exe.config
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.exe.manifest
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.application
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.exe
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.pdb
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.xml
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\bin\Debug\ScintillaNET.xml
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.Resources.resources
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.exe.manifest
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.application
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.exe
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.xml
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.pdb
+C:\Users\user\Desktop\codemate\CODEMATE TUTOR\bin\Debug\ScintillaNET.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.Addfile.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.browsemain.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.browsetab.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.containeer.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.Form2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.game1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.openfile.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.settings.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.tab1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.tab2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.WICSform1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.WorkArea.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE_TUTOR.WorkStart.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.exe.manifest
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.application
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\bin\Debug\CODEMATE TUTOR.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\bin\Debug\ScintillaNET.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\bin\Debug\ScintillaNET.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.exe.manifest
+C:\Users\User\Documents\Visual Studio 2015\Projects\codemate\CODEMATE TUTOR\obj\Debug\CODEMATE TUTOR.application

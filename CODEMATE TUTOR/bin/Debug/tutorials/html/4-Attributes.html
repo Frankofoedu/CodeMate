@@ -1,0 +1,209 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="lib/w3.css">
+		<link rel="stylesheet" href="lib/w3-theme-blue.css">
+	</head>
+	<body>
+		<div class='w3-col l10 m12' id='main'>
+<h1>HTML <span class="color_h1">Attributes</span></h1>
+
+<hr>
+<p class="intro">Attributes provide additional information about HTML elements.</p>
+<hr>
+
+<h2>HTML Attributes</h2>
+<ul>
+  <li>HTML elements can have <b>attributes</b></li>
+  <li>Attributes provide <b>additional information</b> about an element</li>
+  <li>Attributes are always specified in <b>the start tag</b></li>
+  <li>Attributes come in name/value pairs like: <b>name=&quot;value&quot;</b></li>
+</ul>
+<hr>
+
+<h2>The lang Attribute</h2>
+<p>The document language can be declared in the <strong>&lt;html&gt;</strong> tag.</p>
+<p>The language is declared in the <strong>lang</strong> attribute.</p>
+<p>Declaring a language is important for accessibility applications (screen readers) and search engines:</p>
+<div class="w3-example">
+<div class="w3-code notranslate htmlHigh">
+&lt;!DOCTYPE html&gt;<br>&lt;html lang=&quot;en-US&quot;&gt;<br>&lt;body&gt;<br><br>&lt;h1&gt;My First Heading&lt;/h1&gt;<br>&lt;p&gt;My first paragraph.&lt;/p&gt;<br><br>&lt;/body&gt;<br>&lt;/html&gt;
+</div>
+</div>
+<p>The first two letters specify the language (en). If there is a dialect, use two more letters (US).</p>
+<hr>
+
+<h2>The title Attribute</h2>
+<p>HTML paragraphs are defined with the <strong>&lt;p&gt;</strong> tag.</p>
+<p>In this example, the <strong>&lt;p&gt;</strong> element has a <strong>title</strong> attribute.
+The value of the attribute is &quot;<strong>About W3Schools</strong>&quot;:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+&lt;p title=&quot;About W3Schools&quot;&gt;<br>W3Schools is a web developer's site.<br>
+It provides tutorials and references covering<br>many aspects of web 
+programming,<br>including HTML, CSS, JavaScript, XML, SQL, PHP, ASP, 
+etc.<br>&lt;/p&gt;
+</div>
+<a class="w3-btn w3-margin-bottom">Try it yourself in the "Do it Yourself Area" &raquo;</a>
+</div>
+
+<table class="lamp"><tr>
+<th style="width:34px"></th>
+<td>When you move the mouse over the element, the title will be displayed as a tooltip.</td>
+</tr>
+</table>
+<hr>
+
+<h2>The href Attribute</h2>
+<p>HTML links are defined with the <strong>&lt;a&gt;</strong> tag. The link address is specified in the <b>href</b> attribute:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+&lt;a href=&quot;http://www.w3schools.com&quot;&gt;This is a link&lt;/a&gt;
+</div>
+<a class="w3-btn w3-margin-bottom">Try it yourself in the "Do it Yourself Area" &raquo;</a>
+</div>
+<p>You will learn more about links and the &lt;a&gt; tag later in this tutorial.</p>
+<hr>
+
+<h2>Size Attributes</h2>
+<p>HTML images are defined with the <strong>&lt;img&gt;</strong> tag.</p>
+<p>The filename of the source (<strong>src</strong>), and the size of the image (<strong>width</strong>
+and <strong>height</strong>) are all provided as <strong>attributes</strong>:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+&lt;img src=&quot;w3schools.jpg&quot; width=&quot;104&quot; height=&quot;142&quot;&gt;
+</div>
+<a class="w3-btn w3-margin-bottom">Try it yourself in the "Do it Yourself Area" &raquo;</a>
+</div>
+<p>The image size is specified in pixels: width=&quot;104&quot; means 104 screen pixels wide.</p>
+<p>You will learn more about images and the &lt;img&gt; tag later in this tutorial.</p>
+<hr>
+
+<h2>The alt Attribute</h2>
+<p>The <strong>alt</strong> attribute specifies an alternative text to be used, when an HTML element cannot be displayed.</p>
+<p>The value of the attribute can be read by &quot;screen readers&quot;. This way, someone &quot;listening&quot; 
+to the webpage, i.e. a blind person, can &quot;hear&quot; the element.</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+	&lt;img src=&quot;w3schools.jpg&quot; alt=&quot;W3Schools.com&quot; width=&quot;104&quot; height=&quot;142&quot;&gt;
+</div>
+<a class="w3-btn w3-margin-bottom">Try it yourself in the "Do it Yourself Area" &raquo;</a>
+</div>
+<hr>
+
+<h2>We Suggest: Always Use Lowercase Attributes</h2>
+<p>The HTML5 standard does not require lower case attribute names.</p>
+<p>The title attribute can be written with upper or lower case 
+like <strong>Title</strong> and/or <strong>TITLE</strong>.</p>
+<p>W3C <strong>recommends</strong> lowercase in HTML4, and <strong>demands</strong> 
+lowercase for stricter document types like XHTML.</p>
+
+<table class="lamp"><tr>
+<th style="width:34px"><th>
+<td>Lower case is the most common. Lower case is easier to type.<br>At W3Schools we always use lower case attribute names.</td>
+</tr></table>
+<hr>
+
+<h2>We Suggest: Always Quote Attribute Values</h2>
+<p>The HTML5 standard does not require quotes around attribute values.</p>
+<p>The <strong>href</strong> attribute, demonstrated above, can be written as:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+	&lt;a
+href=http://www.w3schools.com&gt;</div>
+<a class="w3-btn w3-margin-bottom">Try it yourself in the "Do it Yourself Area" &raquo;</a>
+</div>
+<p>W3C <b>recommends</b> quotes in HTML4, and <strong>demands</strong> quotes for stricter document types like XHTML.</p>
+<p>Sometimes it is <strong>necessary</strong> to use quotes. This will not display correctly, because it contains a space:</p>
+<div class="w3-example">
+<h3>Example</h3>
+<div class="w3-code notranslate htmlHigh">
+	&lt;p
+	title=About W3Schools&gt;</div>
+<a class="w3-btn w3-margin-bottom">Try it yourself in the "Do it Yourself Area" &raquo;</a>
+</div>
+
+<table class="lamp"><tr>
+<th style="width:34px"></th>
+<td>
+Using quotes are the most common. Omitting quotes can produce errors.
+<br>At W3Schools we always use quotes around attribute values.</td>
+</tr></table>
+<hr>
+
+<h2>Single or Double Quotes?</h2>
+<p>Double style quotes are the most common in HTML, but single style can also be used.</p>
+<p>In some situations, when the attribute value itself contains double quotes, it is necessary to use single quotes:</p>
+<div class="w3-example">
+<div class="w3-code notranslate htmlHigh">
+&lt;p title='John &quot;ShotGun&quot; Nelson'&gt;
+</div>
+</div>
+
+<p>Or vice versa:</p>
+
+<div class="w3-example">
+<div class="w3-code notranslate htmlHigh">
+&lt;p title=&quot;John 'ShotGun' Nelson&quot;&gt;</div>
+</div>
+<hr>
+
+<h2>Chapter Summary</h2>
+<ul>
+	<li>All HTML elements can have <strong>attributes</strong></li>
+	<li>The HTML <strong>title</strong> attribute provides additional &quot;tool-tip&quot; 	information</li>
+	<li>The HTML <strong>href</strong> attribute provides address information for links</li>
+	<li>The HTML <strong>width</strong> and <strong>height</strong> attributes provide size information for images</li>
+	<li>The HTML <strong>alt</strong> attribute provides text for screen readers</li>
+	<li>At W3Schools we always use <strong>lowercase</strong> HTML attribute names</li>
+	<li>At W3Schools we always <strong>quote</strong> attributes with double quotes</li>
+</ul>
+<hr>
+
+<h2>HTML Attributes</h2>
+<p>Below is an alphabetical list of some attributes often used in HTML:</p>
+<table class="w3-table-all notranslate">
+<tr>
+<th style="width:15%">Attribute</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>alt</td>
+<td>Specifies an alternative text for an image</td>
+</tr>
+<tr>
+<td>disabled</td>
+<td>Specifies that an input element should be disabled</td>
+</tr>
+<tr>
+<td>href</td>
+<td>Specifies the URL (web address) for a link</td>
+</tr>
+<tr>
+<td>id</td>
+<td>Specifies a unique id for an element</td>
+</tr>
+<tr>
+<td>src</td>
+<td>Specifies the URL (web address) for an image</td>
+</tr>
+<tr>
+<td>style</td>
+<td>Specifies an inline CSS style for an element</td>
+</tr>
+<tr>
+<td>title</td>
+<td>Specifies extra information about an element (displayed as a tool tip)</td>
+</tr>
+</table>
+<p>A complete list of all attributes for each HTML element, is listed at:
+<a href="www.w3schools.com/tags/default.html">HTML Tag Reference</a>.</p>
+
+<br>
+</div>
+	</body>
+</html>
